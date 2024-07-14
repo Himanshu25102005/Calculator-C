@@ -1,1 +1,1 @@
-# Caluclator-C
+# Calculator-C
