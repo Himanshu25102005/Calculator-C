@@ -23,3 +23,17 @@ This is a simple calulator program which can perform various operations which in
   - Secant
   - Cosecant
   - Cotangent
+ 
+  - ## Contributing
+  - Contributions are welcome! Please fork the repository and create a pull request with your 
+    changes. Ensure your code follows the project's coding style and is well-documented.
+
+   - ## Acknowledgement
+   - Inspired by various calculator projects and mathematical functions in C
+ 
+   - ## Getting Started
+ 
+   - ### Prerequisites
+
+     - A C compiler such as `gcc`.
+     - Basic knowledge of command-line interface
