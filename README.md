@@ -4,7 +4,7 @@ This is a simple calulator program which can perform various operations which in
 
 ## Functions
 
-- ** Arithmetic Operations:**
+- **Arithmetic Operations:**
 - - Addition: adds two numbers
   - Subtraction: subtracts second number form first
   - Multiplication: multiplies two number
