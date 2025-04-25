@@ -29,7 +29,7 @@ This is a simple calulator program which can perform various operations which in
     changes. Ensure your code follows the project's coding style and is well-documented.
 
 - ## Acknowledgement
-   - Inspired by various calculator projects and mathematical functions in C
+   - Inspired by various calculator projects and mathematical functions in C.
  
 - ## Getting Started
  
