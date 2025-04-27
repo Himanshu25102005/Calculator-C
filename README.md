@@ -16,7 +16,7 @@ This is a simple calulator program which can perform various operations which in
   - Power: computes first number raised to second number
   - Logarithm (base 10): calculates natural logarithm with base 10 of a  number
   - Square Root: calculates square root of a number
-- **Trigonometric Functions:**
+- **Trigonometric Functions:-**
   - Sine
   - Cosine
   - Tangent
